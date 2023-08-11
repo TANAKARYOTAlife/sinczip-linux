@@ -1,0 +1,3 @@
+zip -0 -.epub mimetype
+zip -8r -.epub EPUB
+zip -8r -.epub META-INF
